@@ -10,23 +10,23 @@
 
 Predictive analytics in aviation case solution
 
-Solution was created using 
+Solution was created using Python, PyTorch, Docker and OpenModelica
 
-## Installation
-
-Make sure you have  
+## Installation 
 
 To install application, please run:
 
 
 To compile it from source:
 
-    git clone https://github.com/
+    git clone https://github.com/Lunettes14/Only-Neuronets
 
 
 ## Example
     
-You can see how this works
+You can see how this works in:
+   
+    https://github.com/Lunettes14/Only-Neuronets/presentation.pptx
 
 
 ## About
