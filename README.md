@@ -10,7 +10,14 @@
 
 Predictive analytics in aviation case solution
 
+Li-ion battery degradation prediction
+
 Solution was created using Python, PyTorch, Docker and OpenModelica
+
+Battely model example:
+<p align="left">
+  <img src="./img/image.png" width="520">
+</p>
 
 ## Installation 
 
