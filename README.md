@@ -33,7 +33,7 @@ To compile it from source:
     
 You can see how this works in:
    
-    https://github.com/Lunettes14/Only-Neuronets/presentation.pptx
+    https://github.com/Lunettes14/Only-Neuronets/OnlyPresentation.pdf
 
 
 ## About
