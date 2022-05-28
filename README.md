@@ -19,6 +19,7 @@ Battely model example:
   <img src="./img/image.png" width="520">
 </p>
 
+With the help of a functional model in Openmodelica, synthetic data was generated and a neural network was trained on their basis. A neural network was also trained based on data from the dataset. 
 ## Installation 
 
 To install application, please run:
